@@ -1,0 +1,6 @@
+framework module wildAllParamPicKit {
+  umbrella header "wildAllParamPicKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

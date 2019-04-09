@@ -1,0 +1,16 @@
+PODS:
+  - wildAllParamPicKit (0.1.0)
+
+DEPENDENCIES:
+  - wildAllParamPicKit (from `../`)
+
+EXTERNAL SOURCES:
+  wildAllParamPicKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wildAllParamPicKit: ef55813f8df64be012236106f06c9867286f459f
+
+PODFILE CHECKSUM: ca465a37a517e1bf03e0ff4ccc4604f233913878
+
+COCOAPODS: 1.5.3
