@@ -1,5 +1,5 @@
 PODS:
-  - wildAllParamPicKit (0.1.0)
+  - wildAllParamPicKit (0.1.1)
 
 DEPENDENCIES:
   - wildAllParamPicKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  wildAllParamPicKit: ef55813f8df64be012236106f06c9867286f459f
+  wildAllParamPicKit: 8c60d50f628c6de4acdbdd5c8b634d62f09576b2
 
 PODFILE CHECKSUM: ca465a37a517e1bf03e0ff4ccc4604f233913878
 
