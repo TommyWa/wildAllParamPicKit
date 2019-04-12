@@ -15,9 +15,9 @@ Install _fastlane_ using
 or alternatively using `brew cask install fastlane`
 
 # Available Actions
-### wildAllParamPicKit
+### wildPicViewKit
 ```
-fastlane wildAllParamPicKit
+fastlane wildPicViewKit
 ```
 首次起飞，注意避让
 

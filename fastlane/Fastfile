@@ -23,6 +23,6 @@ push_git_tags
 
 pod_lib_lint(allow_warnings:true)
 
-pod_push(path:"#{podspecName}.podSpec", repo:"wildSpecs")
+pod_push(path:"./#{podspecName}.podSpec", repo:"wildSpecs")
 
 end
