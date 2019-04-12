@@ -1,5 +1,5 @@
 desc '首次起飞，注意避让'
-lane :wildAllParamPicKit do |options|
+lane :wildPicViewKit do |options|
 
 tagNum = options[:tag]
 podspecName = options[:specName]
