@@ -11,6 +11,7 @@
 #endif
 
 #import "SNProdetail360DegreeView.h"
+#import "WildDegreeViewModel.h"
 
 FOUNDATION_EXPORT double wildAllParamPicKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char wildAllParamPicKitVersionString[];
