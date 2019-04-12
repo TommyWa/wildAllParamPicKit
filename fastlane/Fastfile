@@ -13,6 +13,7 @@ git_add(path:".")
 git_commit(path:".", message:"upgrade repo")
 push_to_git_remote
 
+remove_git_tag
 
 add_git_tag(
 	tag:tagNum
